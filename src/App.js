@@ -57,15 +57,3 @@ function Basic() {
     </div>
   );
 }
-
-// export default function App() {
-//   return (
-//     <div className="App">
-//       <p>texto</p>
-//       <div className="App-header">
-//         <Componente1 />
-//         <Componente2 />
-//       </div>
-//     </div>
-//   );
-// }
